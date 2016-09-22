@@ -1,5 +1,5 @@
 html body {
-    background-color: dimgrey;
+    background-color: black;
 }
 #page {
     height: 100%;
@@ -72,7 +72,7 @@ h2 {
     overflow: hidden;
 }
 .narration {
-    font-family: "IMpact";
+    font-family: "Comic Sans MS";
     font-style: italic;
     font-weight: 900;
     font-size: 14px;
