@@ -30,7 +30,7 @@ h2 {
     position: relative;
     height: 280px;
     width: 780px;
-    border: 8px solid darkslateblue;
+    border: 10px solid darkslateblue;
     float: left;
     background-color: white;
     overflow: hidden;
@@ -39,7 +39,7 @@ h2 {
     position: relative;
     height: 280px;
     width: 280px;
-    border: 8px solid lightblue;
+    border: 10px solid lightblue;
     float: left;
     background-color: white;
     overflow: hidden;
@@ -48,7 +48,7 @@ h2 {
     position: relative;
     height: 280px;
     width: 480px;
-    border: 8px solid darkblue;
+    border: 10px solid darkblue;
     float: left;
     background-color: white;
     overflow: hidden;
