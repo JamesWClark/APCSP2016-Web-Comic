@@ -47,7 +47,7 @@ h2 {
     height: 570px;
     width: 260px;
     position: relative;
-    border: 5px solid Blue;
+    border: 5px solid #FF0000;
     background-color: aliceblue;
     overflow: hidden;
 }
@@ -55,7 +55,7 @@ h2 {
     height: 280px;
     width: 520px;
     position: relative;
-    border: 5px solid Blue;
+    border: 5px solid #FF0000;
     background-color: aliceblue;
     overflow: hidden;
 }
@@ -63,7 +63,7 @@ h2 {
     height: 280px;
     width: 255px;
     position: relative;
-    border: 5px solid Blue;
+    border: 5px solid #FF0000;
     background-color: aliceblue;
     overflow: hidden;
 }
@@ -71,7 +71,7 @@ h2 {
     height: 280px;
     width: 255px;
     position: relative;
-    border: 5px solid Blue;
+    border: 5px solid #FF0000;
     background-color: aliceblue;
     overflow: hidden;
 }
@@ -79,7 +79,7 @@ h2 {
     height: 280px;
     width: 790px;
     position: relative;
-    border: 5px solid Blue;
+    border: 5px solid #FF0000;
     background-color: aliceblue;
     overflow: hidden;
 }
@@ -139,4 +139,30 @@ h2 {
 
 .infront{
     z-index: 3;
+}
+/* Image Classes */
+#image1 {
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+#image2 {
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+#image3 {
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+#image4 {
+    position: absolute;
+    height: 100%;
+    width: 100%
+}
+#image5 {
+    position: absolute;
+    height: 100%;
+    width: 100%
 }
