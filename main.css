@@ -93,7 +93,7 @@ h2 {
 }
 .left {
     position: absolute;
-    left: 0;
+    left: 1;
 }
 .right {
     position: absolute;
@@ -119,7 +119,7 @@ h2 {
     z-index: 2;
 }
 .infront {
-    z-index: 3;
+    z-index: 2;
 }
 #image4 {
     height: 100%;
