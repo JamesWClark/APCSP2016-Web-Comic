@@ -28,7 +28,7 @@ h2 {
 }
 #panel1 {
     position: relative;
-    height: 280px;
+    height: 480px;
     width: 780px;
     border: 10px solid #2b2b2b;
     float: left;
@@ -97,7 +97,7 @@ h2 {
 }
 .right {
     position: absolute;
-    right: 0;
+    left: 1;
 }
 .top {
     position: absolute;
@@ -136,4 +136,7 @@ h2 {
 #image5 {
     height: 100%;
     width: 100%;
+}
+#mandrew {
+    
 }
